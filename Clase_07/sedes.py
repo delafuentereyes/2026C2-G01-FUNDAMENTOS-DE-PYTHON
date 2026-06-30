@@ -6,7 +6,7 @@ resolver el analisis paso a paso sin modificar esta fuente.
 
 sedes = [
     {
-        "nombre": "Soda San Pedro",
+        "nombre": "Soda San Pedro", # ETIQUETA "nombre", VALOR "Soda San Pedro"
         "provincia": "San Jose",
         "tipo": "Alimentacion",
         "ventas": [85000, 92000, 78000, 110000, 97000],
